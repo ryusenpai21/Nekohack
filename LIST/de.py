@@ -50,9 +50,9 @@ def german():
 
     print("{}  '--------------'----------{}------------------.  ").format(r,w)
 
-    print("{}  | {}Author  : {}HVmbl3 {}     | {}INDO{}N{}{}ESIA         | ").format(r,w,r,w,r,ir,reset,w)
+    print("{}  | {}Author  : {}Nekouwu {}     | {}INDO{}N{}{}ESIA         | ").format(r,w,r,w,r,ir,reset,w)
 
-    print("{}  | {}Youtube : {}Shodiq 2701 {}| {}+62-813-6487-3762 {}|").format(r,w,w,w,lgray,w)
+    print("{}  | {}Team : {}Itami Xploit Hentai {}| {}Anime Loves {}|").format(r,w,w,w,lgray,w)
 
     print("{}  '------------------------------------{}-------'  ").format(r,w)
 
